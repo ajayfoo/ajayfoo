@@ -4,5 +4,3 @@
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayfoo&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayfoo&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center">Here's my personal GitHub profile containing other projects: https://github.com/ajaypep</h3>
